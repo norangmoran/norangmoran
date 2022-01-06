@@ -1,6 +1,6 @@
 ### Hi! I'm RanHuy, Mo 👋😄
 
-I'm a developer living in Korea.
+I'm a developer living in Korea. Just call me Ran!
 
 I,m currently looking for a job. :joy:
 
@@ -15,6 +15,11 @@ I,m currently looking for a job. :joy:
 ![Laravel](https://img.shields.io/badge/-Laravel-violet?style=flat-square&logo=Laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-darkorange?style=flat-square&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-darkgreen?style=flat-square&logo=SpringBoot&logoColor=white)
+
+<br>
+
+![Ran's github stats](https://github-readme-stats.vercel.app/api?username=norangmoran&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=norangmoran&layout=compact&theme=great-gatsby&exclude_repo=moran)
 
 <br>
 
