@@ -1,9 +1,20 @@
-### Hi there 👋
+### Hi! I'm RanHuy, Mo 👋😄
 
-<!--
-**norangmoran/norangmoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have many thoughts in my head, looks like a yarn ball.
 
-Here are some ideas to get you started:
+But I can use it to weave a many thing.
+
+So I chose **weavingcoding**.
+
+🔭 I’m currently working on ...
+
+🌱 I’m currently learning ...
+
+⚡ Fun fact: ...
+
+📫 How to reach me: ...
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Portfolio](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://837477.github.io)](https://837477.github.io) 
+[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ranhuy.mo@gmail.com)](mailto:ranhuy.mo@gmail.com)
+[![T-story](https://img.shields.io/badge/-T--story-green?style=flat-square&logo=TV Time&logoColor=white&link=https://weavingcoding.tistory.com/)](https://weavingcoding.tistory.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnorangmoran&count_bg=%23FFB333&title_bg=%23555555&logo=Tableau&logoColor=white&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
