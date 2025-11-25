@@ -37,8 +37,8 @@
 <br/>
 <br/>
 
-<img height="170 !important"
-  src="https://github-readme-stats.vercel.app/api?username=norangmoran&show_icons=true&theme=great-gatsby" />
+<!-- <img height="170 !important"
+  src="https://github-readme-stats.vercel.app/api?username=norangmoran&show_icons=true&theme=great-gatsby" /> -->
 <img height="170 !important"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=norangmoran&layout=compact&theme=great-gatsby&exclude_repo=eventboard" />
 
