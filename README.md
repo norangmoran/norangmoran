@@ -85,7 +85,7 @@
 ___
 **For other questions, please refer to the link below.**
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/WeabDing)](https://twitter.com/WeabDing)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=indeed&logoColor=white&link=https://twitter.com/WeabDing)](https://www.linkedin.com/in/%EB%9E%80%ED%9D%AC-%EB%AA%A8-76119a194/)
 [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ranhuy.mo@gmail.com)](mailto:ranhuy.mo@gmail.com)
 [![T-story](https://img.shields.io/badge/-T--story-orange?style=flat-square&logo=TVTime&logoColor=white&link=https://weavingcoding.tistory.com/)](https://weavingcoding.tistory.com/)
 
