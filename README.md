@@ -1,15 +1,16 @@
 # 👋 안녕하세요, 모란희입니다!
 
-✨ 비즈니스 문제를 **데이터 구조**와 **시스템 설계**로 해결하는 백엔드 개발자입니다! ✨
-문제의 근본 원인을 분석하고, 유지보수성과 확장성을 고려한 구조를 설계하는 것에 큰 보람을 느낍니다.
+### ✨ 비즈니스 문제를 **데이터 구조**와 **시스템 설계**로 해결하는 백엔드 개발자입니다! ✨
 
----
+#### 문제의 근본 원인을 분석하고, 유지보수성과 확장성을 고려한 구조를 설계하는 것에 큰 보람을 느낍니다.😉
+
+<br/>
 
 ## 📊 GitHub Stats
 
 ![Stats](https://github-stats-extended.vercel.app/api?username=norangmoran&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +40,7 @@
 ![Tomcat](https://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -61,7 +62,7 @@
   트리 구조에서 **관계형 데이터 모델**로 전환하여 월간 업소 오픈 건수를 **292.5% 증가**시킨 시스템 고도화  
   - [Project Portfolio (Google Drive)](https://drive.google.com/file/d/1WYqj2piqnhNp4LooOxw7qTLIvqYUWE4o/view?usp=sharing)
 
----
+<br/>
 
 ## 🌱 Currently Learning
 
